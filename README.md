@@ -104,5 +104,7 @@ my_find(collection) {|i| i % 3 == 0 and i % 5 == 0 }
 ```
 Our method will return the first element in the array that evaluates to `true`. In our example this would be 15.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-my_find_code_along/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-my_find_code_along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Code Along: Building the `find` method</p>
